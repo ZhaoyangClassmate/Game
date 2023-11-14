@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\code\Game\GaziStealsDog\main.cpp(144,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\Game\GaziStealsDog\main.cpp(417,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\Game\GaziStealsDog\main.cpp(462,6): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\code\Game\GaziStealsDog\main.cpp(464,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  GaziStealsDog.vcxproj -> D:\code\game\GaziStealsDog\x64\Debug\GaziStealsDog.exe

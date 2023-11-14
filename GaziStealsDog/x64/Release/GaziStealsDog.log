@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\code\game\GaziStealsDog\main.cpp(145,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\main.cpp(418,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\main.cpp(461,6): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\code\game\GaziStealsDog\main.cpp(463,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  tools.cpp
+D:\code\game\GaziStealsDog\tools.cpp(17,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\tools.cpp(175,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\tools.cpp(175,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\tools.cpp(175,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\code\game\GaziStealsDog\tools.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  GaziStealsDog.vcxproj -> D:\code\game\GaziStealsDog\x64\Release\GaziStealsDog.exe
