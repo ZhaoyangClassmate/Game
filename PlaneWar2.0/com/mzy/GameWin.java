@@ -29,6 +29,12 @@ public class GameWin extends JFrame {
     int enemyCount = 0;
 
     public void launch() {
+
+        Music audioPlayWave = new Music("src/BGM.wav");
+        audioPlayWave.start();
+        @SuppressWarnings("unused")
+        int musicOpenLab = 1;
+        
         //设置窗口是否可见
         this.setVisible(true);
         //设置窗口大小
