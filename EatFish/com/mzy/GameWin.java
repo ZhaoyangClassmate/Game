@@ -46,6 +46,12 @@ public class GameWin extends JFrame {
      * 游戏操作方法
      */
     public void launch() {
+
+        Music audioPlayWave = new Music("src/皇家萌卫.wav");
+        audioPlayWave.start();
+        @SuppressWarnings("unused")
+        int musicOpenLab = 1;
+        
         //界面布局
         this.setVisible(true);
         this.setSize(width, height);
